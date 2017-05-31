@@ -1,21 +1,33 @@
 # TestProject
 Simple info
 # Test Topic
-
-<section class="container-fluid">
-  <h1 class='text-primary'>Random Quotes!</h1>
-  <div class="jumbotron">
- <p class="quote-text  text-painter"></p>
-   <p class="author-text speaker-name"></p>
-</div>
-    
-  
-  <button type="button" class="btn btn-primary" id="quote">New Quote</button>
-  <a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-size="large" target="_blank">
-    <button type="button" class="btn btn-primary">Tweet it!</button>
-  </a>
-</section>
-
-<footer>
-  <p>Copyright © daniel temitayo 2017. All Rights Reserved</p>
-</footer>
+<p>Plan to complete the Lab Experiments.</p>
+<ol>
+<li>
+<p>Level I:  Introduction to Programming-  1st Lab session</p>
+</li>
+<li>
+<p>Level 2: Basic constructs (2nd and 3rd lab sessions)</p>
+<pre><code> 1.Variables,Expressions and statements
+ 2.Assignments
+ 3.Conditions
+ 4.Loops
+ 5.Functions
+</code></pre>
+</li>
+<li>
+<p>Level 3:  Actual Lab experiments Starts.</p>
+<pre><code> Lab 4 -1,2&amp;3 Experiments
+ Lab 5 - 4th Experiment
+ Lab 6 - 5&amp;6 Experiments
+ Lab 7- 7th Experiment
+ Lab 8 - 8th Experiment
+ Lab 9 - 9th Experiment
+ Lab 10 - 10th Experiment
+ Lab 11 - 11th Experiment
+ Lab 12 - 12th Experiment
+ Lab 13 - Model Exam
+</code></pre>
+</li>
+</ol>
+</article>
